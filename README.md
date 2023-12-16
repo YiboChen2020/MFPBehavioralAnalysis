@@ -26,8 +26,10 @@ This part is entirely Matlab programs. Please add 'Source' to the Matlab path.
 The programs in 'Source' are referenced from https://github.com/ShanechiLab/PSID
 
 ##Usage
+
 ###HSMM
 There is an intruction in folder 'HSMM'.
+
 ###PSID
 +PSID_AcrossSession.m is used to show the prediction results of all sessions of a animal
 +male_tracjory is used to plot neural trajectory of "Attack" behavior
