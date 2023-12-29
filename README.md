@@ -1,6 +1,8 @@
 # MFPBehavioralAnalysis
 This repository contains the open-source code accompanying our research paper, "Identifying behavioral links to neural dynamics of multifiber photometry recordings in a mouse social behavior network." Yibo Chen, Jonathan Chien, Bing Dai, Dayu Lin, Zhe Sage Chen
 
+bioRxiv link：https://www.biorxiv.org/content/10.1101/2023.12.25.573308v1
+
 In this research work, we utilized two models, namely HSMM and PSID. The corresponding code can be found in folders named 'HSMM' and 'PSID' respectively. We have only provided example code; if you wish to access code for other processing methods described in the paper, please feel free to contact the authors.
 
 ## Install
